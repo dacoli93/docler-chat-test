@@ -48,6 +48,7 @@
 		-------------- IDE JON A SCRIPT -------------
 		--------------------------------------------->
 		
+		
 		<style type='text/css'>
 	.embeddedServiceHelpButton .helpButton .uiButton {
 		background-color: #005290;
@@ -112,10 +113,6 @@
 </script>
 		
 		
-		<script type='text/javascript' src='https://c.la1-c2-frf.salesforceliveagent.com/content/g/js/49.0/deployment.js'></script>
-<script type='text/javascript'>
-liveagent.init('https://d.la1-c2-frf.salesforceliveagent.com/chat', '5722X0000008gu3', '00D2X000000t0ed');
-</script>
 		<!-------------------------------------------
 		-------------- IDE JON A SCRIPT -------------
 		--------------------------------------------->
